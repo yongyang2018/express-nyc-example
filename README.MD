@@ -71,7 +71,7 @@ app.get('/converage.x', (req, res) => {
 
 ## 生成实时覆盖率报告
 
-1. 通过 nyc 代理启动 nestjs 
+1. 通过 nyc 代理启动 express
 
 ```sh
 npm run cov
